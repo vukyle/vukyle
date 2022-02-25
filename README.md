@@ -1,7 +1,18 @@
-### Hi there 👋
+### Vu Le 👋🏽
+~~Stack Overflow expert~~ Software engineer for [Disney](https://dmedmedia.disney.com/).
+
+Currently building internal tools to allow creatives to reach their full potential.
+
+Current Stack: JavaScript, React, Node, GraphQL
+
+When I am not working, I am 🚵 🧗
+
+> Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.
+
+*-Baden-Powell, Farewell Message*
 
 <!--
-**vukyle/vukyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vukyle/vu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
