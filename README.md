@@ -7,9 +7,8 @@ Current Stack: JavaScript, React, Node, GraphQL
 
 When I am not working, I am 🚵 🧗
 
-> Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best.
+> Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best. *- Baden-Powell, Farewell Message*
 
-*-Baden-Powell, Farewell Message*
 
 <!--
 **vukyle/vu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
