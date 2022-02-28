@@ -1,7 +1,7 @@
 ### Vu Le 👋🏽
 ~~Stack Overflow expert~~ Software engineer for [Disney](https://dmedmedia.disney.com/).
 
-Currently building internal tools to allow creatives to reach their full potential.
+Currently building internal tools used to facilitate the story telling at Disney.
 
 Current Stack: JavaScript, React, Node, GraphQL
 
